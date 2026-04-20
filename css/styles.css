@@ -416,6 +416,10 @@ nav .logo {
     background-color: black;
 }
 
+.skills-grid div:active {
+    transform: scale(1.04);
+    background-color: black;
+}
 
 
 /* MY PROJECTS */
